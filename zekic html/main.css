@@ -1,0 +1,29 @@
+body {
+
+    background-image: url("picture2.jpg");
+    background-color: #cccccc;
+   
+
+}
+
+.float-image {
+	float: right;
+}
+
+nav li {
+	list-style: none;
+}
+.nav-list {
+	padding-left: 0;
+}
+.page-nav {
+	float: left;
+	width: 30%;
+}
+.content {
+	margin: 0 auto;
+	width: 70%;
+}
+p {
+	
+}

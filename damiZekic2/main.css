@@ -1,0 +1,43 @@
+* {
+	box-sizing: border-box;
+}
+
+.columns-1,
+.columns-2,
+.columns-3,
+.columns-4 {
+
+	float: left;
+	padding: 2%;
+}
+
+.columns-1 {
+	
+	width: 25%;
+}
+
+.columns-2 {
+
+	width: 50%;
+}
+
+.columns-3 {
+
+	width: 75%;
+}
+
+.columns-4 {
+	
+	width: 100%;
+}
+.row {
+
+	overflow: hidden;
+}
+
+.row::after {
+	content: "";
+	display: table;
+	clear: both;
+	
+}

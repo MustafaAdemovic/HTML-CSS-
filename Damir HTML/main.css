@@ -1,0 +1,14 @@
+body {
+	background: #587ED1;
+	
+	
+}
+.cup {
+	font-family: Arial;
+	text-transform: uppercase;
+	overflow: auto;
+	border:1px solid #151716;
+	width: 120px;
+	height: 120px;
+	
+}
